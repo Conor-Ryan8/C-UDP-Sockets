@@ -95,7 +95,7 @@ int main (int argc, char *argv[])
 		error("Message failed to Send!\n");
 
 	//Prints data recieved from server stored in the buffer
-	printf("Message Sent!\n");
+	printf("\nMessage Sent!\n");
 
 	//return 0 for lols
 	return 0;
